@@ -1,5 +1,5 @@
 # magento 2 clictopay module
-Magento 2 Clictopay Tunisia Payment Gateway Integration
+Magento 2 Clictopay Tunisia SMT - Monetique tunisie Payment Gateway
  - support magento 2.3.x , 2.4.x
  - Integrate ClicToPay with Magento 2 website.
  - Admin can configure  Account ID, Account password from backend.
