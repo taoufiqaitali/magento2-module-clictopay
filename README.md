@@ -16,3 +16,6 @@ more details:
  - linkedin: https://www.linkedin.com/in/taoufiqaitali/
  - email: tsdi.23a AT gmail.com
  - phone: (+212)0667905425
+
+this is unofficial module for magento 2,  based on restapi provided by http://www.clictopay.com.tn/
+
